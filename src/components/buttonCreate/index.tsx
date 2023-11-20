@@ -1,5 +1,4 @@
-import { Pagination } from "../pagination";
-import { PaginationStyle } from "../pagination/style";
+
 import { ButtonStyle } from "./style";
 
 
