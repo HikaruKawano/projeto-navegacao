@@ -1,4 +1,4 @@
-import Menu from "../menu";
+
 import { SearchStyle, Container, Magnifier } from "./style";
 
 
